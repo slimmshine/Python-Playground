@@ -1,0 +1,6 @@
+{
+    "key_id": "YOUR-KEY-ID",
+    "key_secret": "YOUR-KEY-SECRET",
+    "server": "FQDN-OF-YOUR-IBM-SOAR",
+    "org_id": YOUR-ORG-ID
+}
